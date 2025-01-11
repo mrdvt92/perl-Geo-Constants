@@ -1,0 +1,8 @@
+Changes
+lib/Geo/Constants.pm
+LICENSE
+Makefile.PL
+MANIFEST
+README.md
+t/base.t
+perl-Geo-Constants.spec
